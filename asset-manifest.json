@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rithick03r/Rithick_Students/static/css/main.10b4d1e8.css",
+    "main.js": "/rithick03r/Rithick_Students/static/js/main.75c9c578.js",
+    "static/js/453.858e0780.chunk.js": "/rithick03r/Rithick_Students/static/js/453.858e0780.chunk.js",
+    "index.html": "/rithick03r/Rithick_Students/index.html",
+    "main.10b4d1e8.css.map": "/rithick03r/Rithick_Students/static/css/main.10b4d1e8.css.map",
+    "main.75c9c578.js.map": "/rithick03r/Rithick_Students/static/js/main.75c9c578.js.map",
+    "453.858e0780.chunk.js.map": "/rithick03r/Rithick_Students/static/js/453.858e0780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b4d1e8.css",
+    "static/js/main.75c9c578.js"
+  ]
+}
